@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <title>前往梦想</title>
+  <link rel="stylesheet" href="69189ad0d02679529c45411aa6b9e954">
+</head>
+<body>
+
+<header class="globalHeader">
+  <div class="headerNav">
+    <ul class="headerList">
+      <li class="childListLogo">谦</li>
+      <li class="childList"><a href="d6a48ee55bae8534b91b7b0cf6bfede7">MDN</a></li>
+      <li class="childList"><a href="a2a9e45ac0d08ea80103458068d9e58c">语雀</a></li>
+      <li class="childList"><a href="59e118ac29a2c67b49a1d6ced886a029">GitHub</a></li>
+      <li class="childList"><a href="e30b27c0d081769aad86f65e17d9d638">个人中心</a></li>
+    </ul>
+  </div>
+  <form class="searchForm" action="https://www.baidu.com/s" method="get">
+    <input name="wd" type="text">
+    <button type="submit">搜索</button>
+  </form>
+</header>
+
+<main class="globalMain">
+  <ul class="siteList">
+    <li class="lastList">
+      <div class="addButton">
+        <div class="iconWrapper">
+          <svg class="icon">
+            <use xlink:href="#icon-add"></use>
+          </svg>
+        </div>
+        <div class="text">新增网站</div>
+      </div>
+    </li>
+  </ul>
+</main>
+<script src="428571f466b4efcccf7f7c3f5dfaa963"></script>
+<script src="af28a0194b018e0193ac5599bc2cecab"></script>
+<script src="050f667e079614d598ce9c8deb1fba5f"></script>
+</body>
+</html>
