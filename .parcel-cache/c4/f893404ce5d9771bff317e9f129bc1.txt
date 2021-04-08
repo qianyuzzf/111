@@ -1,0 +1,27 @@
+26
+50C:\Users\zzf\Desktop\demo\navigation\src\style.css132622900919850298 0
+41C:\Users\zzf\Desktop\demo\navigation\dist132623531707909859 1
+65C:\Users\zzf\Desktop\demo\navigation\dist\background.fa3bd45f.jpg132623531697797666 0
+47C:\Users\zzf\Desktop\demo\navigation\.gitignore132623484017611048 0
+42C:\Users\zzf\Desktop\demo\navigation\.idea132623530544636213 1
+50C:\Users\zzf\Desktop\demo\navigation\.idea\vcs.xml132623475646176186 0
+47C:\Users\zzf\Desktop\demo\navigation\src\images132623495517195241 1
+40C:\Users\zzf\Desktop\demo\navigation\src132623495142528806 1
+63C:\Users\zzf\Desktop\demo\navigation\dist\index.79f798ec.js.map132623531707899856 0
+51C:\Users\zzf\Desktop\demo\navigation\src\index.html132622904313999642 0
+52C:\Users\zzf\Desktop\demo\navigation\src\index2.html132622701688486166 0
+48C:\Users\zzf\Desktop\demo\navigation\src\main.js132623495142528806 0
+62C:\Users\zzf\Desktop\demo\navigation\src\images\background.jpg132622739026353524 0
+63C:\Users\zzf\Desktop\demo\navigation\src\images\background3.jpg132622767943097449 0
+66C:\Users\zzf\Desktop\demo\navigation\dist\background3.a88fe7f5.jpg132623531697577543 0
+60C:\Users\zzf\Desktop\demo\navigation\dist\index.02245cc1.css132623531707869850 0
+64C:\Users\zzf\Desktop\demo\navigation\dist\index.02245cc1.css.map132623531707899856 0
+57C:\Users\zzf\Desktop\demo\navigation\.idea\navigation.iml132623233371648000 0
+59C:\Users\zzf\Desktop\demo\navigation\dist\index.79f798ec.js132623531707879847 0
+52C:\Users\zzf\Desktop\demo\navigation\dist\index.html132623531707869850 0
+53C:\Users\zzf\Desktop\demo\navigation\dist\index2.html132623531697537531 0
+53C:\Users\zzf\Desktop\demo\navigation\.idea\.gitignore132623233176616929 0
+53C:\Users\zzf\Desktop\demo\navigation\.idea\codeStyles132623233371828038 1
+54C:\Users\zzf\Desktop\demo\navigation\.idea\modules.xml132623233371728011 0
+56C:\Users\zzf\Desktop\demo\navigation\.idea\workspace.xml132623530544626208 0
+73C:\Users\zzf\Desktop\demo\navigation\.idea\codeStyles\codeStyleConfig.xml132623233371828038 0
